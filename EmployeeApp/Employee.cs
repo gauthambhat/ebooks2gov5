@@ -15,7 +15,7 @@ namespace EmployeeApp
 
         public override string ToString()
         {
-            return "Employee";
+            return "Employees";
         }
     }
     public class Boss : Employee
